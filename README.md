@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enyinnia Clifford
 - 👀 I’m interested in Full stack web development, Data science and AI
-- 🌱 I’m currently learning Django and fastAPI
+- 🌱 I’m currently learning Django, DjangoRestFramework and fastAPI
 - 💞️ I’m looking to collaborate on providding full stack solutions
 - 📫 How to reach me 'enyinniatochi@gmail.com'
 - 😄 Pronouns: He
