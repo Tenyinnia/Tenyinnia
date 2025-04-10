@@ -1,15 +1,55 @@
-- 👋 Hi, I’m Enyinnia Clifford
-- 👀 I’m interested in Full stack web development, Data & GenAI
-- 🌱 I’m currently a Django web developer, I use DjangoRestFramework and fastAPI for API development
-- 💞️ I’m looking to collaborate on providding full stack solutions
-- 📫 How to reach me 'enyinniatochi@gmail.com'
-- 😄 Pronouns: He
-- ⚡ Stack
-      -  Full Stack: Python, Django, FASTAPI, DjangoRestFramework, Postman, MySQL, PostgreSQL
-      -  Data Analytics: Python, Excel, CSV, SQL, MYSQL, PostgreSQL, Tableau, Power BI
-      -  AI: ChainLit, ChromaDB, CrewAI, Langchain, LLM and SLM
-      -  Prompt Engineering: llama, DeepSeek, HuggingFace
-<!---
-Tenyinnia/Tenyinnia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hello, I’m Enyinnia Clifford
+
+🎯 **Django Developer | AI Architect | Data Analyst / Data Scientist**
+
+---
+
+## 🚀 Mission  
+To engineer **powerful web applications**, drive **AI innovation**, and unlock the value of **data** through **intelligent**, **scalable**, and **human-centered** solutions.
+
+---
+
+## 🔧 Tech Stack & Skills
+
+### 🌐 Full Stack Development
+- **Languages & Frameworks**: **Python**, **Django**, **Django REST Framework**, **FastAPI**
+- **Databases**: **MySQL**, **PostgreSQL**
+- **API Tools**: **Postman**
+
+### 📊 Data Analytics & Science
+- **Languages & Tools**: **Python**, **Excel**, **CSV**, **SQL**, **Pandas**
+- **Visualization**: **Tableau**, **Power BI**
+
+### 🤖 Artificial Intelligence & GenAI
+- **Frameworks & Tools**: **LangChain**, **LLMs**, **SLMs**, **ChromaDB**, **CrewAI**, **ChainLit**
+- **Prompt Engineering**: **LLaMA**, **DeepSeek**, **HuggingFace**
+
+---
+
+## 💡 What I’m Currently Up To
+- 🔧 Developing **full-stack Django applications** with powerful API integrations  
+- 🤖 Building **AI-powered tools** and **automation systems** using GenAI frameworks  
+- 📈 Delivering **data-driven insights** through **dashboards** and analytics  
+- 💼 Providing **freelance tech solutions** and **collaboration opportunities**
+
+---
+
+## 🤝 Let’s Collaborate
+I’m open to working on:
+- **Full-stack web development** projects  
+- **AI-powered intelligent systems**  
+- **Data pipelines and visualization**  
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: **enyinniatochi@gmail.com**
+
+---
+
+## 😄 Pronouns  
+**He / Him**
+
+---
+
+> *“Building systems that make life easier, smarter, and data-driven — one solution at a time.”*
