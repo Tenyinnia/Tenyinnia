@@ -21,14 +21,14 @@ To engineer **powerful web applications**, drive **AI innovation**, and unlock t
 - **Visualization**: **Tableau**, **Power BI**
 
 ### 🤖 Artificial Intelligence & GenAI
-- **Frameworks & Tools**: **LangChain**, **LLMs**, **SLMs**, **ChromaDB**, **CrewAI**, **ChainLit**
+- **Frameworks & Tools**: **LangChain**, **LLMs**, **SLMs**, **ChromaDB**, **WeaviateDB**, **CrewAI**, **ChainLit**
 - **Prompt Engineering**: **LLaMA**, **DeepSeek**, **HuggingFace**
 
 ---
 
 ## 💡 What I’m Currently Up To
-- 🔧 Developing **full-stack Django applications** with powerful API integrations  
-- 🤖 Building **AI-powered tools** and **automation systems** using GenAI frameworks  
+- 🔧 Developing **full-stack Django applications**, **FastAPI development**,  with powerful API integrations  
+- 🤖 Building **AI-powered tools** and **automation systems** using AI frameworks  
 - 📈 Delivering **data-driven insights** through **dashboards** and analytics  
 - 💼 Providing **freelance tech solutions** and **collaboration opportunities**
 
