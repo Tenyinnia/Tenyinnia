@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Enyinnia Clifford
 
-🎯 **Django Developer | AI Architect | Data Analyst / Data Scientist**
+🎯 **Django Developer | FastAPI | AI Architect | Data Analyst / Data Scientist**
 
 ---
 
